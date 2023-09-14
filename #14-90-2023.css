@@ -1,0 +1,17 @@
+<p s><p a><p b><style>*{
+  background:#5E2948;
+}[s]{
+  height:160;
+  width:220;
+  background:#E7A366;
+  margin:70+82;
+}[a],[b]{
+  height:300;
+  width:506;
+  background:transparent;
+  margin:-180-81;
+  border:20px solid #5E2948;
+  border-radius:50%;
+}[b]{
+  margin:-300-81;
+}
