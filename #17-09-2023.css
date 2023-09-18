@@ -1,0 +1,26 @@
+<p a><p b><p c><style>*{
+  background:#F5BE6C
+}[a]{
+  height:130;
+  width:30;
+  background:#B74838;
+  margin:60+146;
+  border-radius:50px;
+  -webkit-box-reflect:right 30px
+}[b]{
+  height:30;
+  width:80;
+  background:#B74838;
+  margin:-40+46;
+  border-radius:50px;
+  -webkit-box-reflect:right 132px
+}[c]{
+  height:90;
+  width:90;
+  border:30px solid #B74838;
+  border-top:0;
+  border-left:0;
+  margin:-120+56;
+  border-radius:0 0 65px;
+  -webkit-box-reflect:right 30px
+}
