@@ -1,0 +1,16 @@
+<p><a><style>*{
+  background:#F1D272;
+}p{
+  background:#EE7667;
+  height:120;
+  width:120;
+  border-radius:50%;
+  margin:122+49;
+}a{
+  background:#EE7667;
+  height:200;
+  position:fixed;
+  margin:-180+114.5;
+  width:20;
+  rotate:25deg;
+}
