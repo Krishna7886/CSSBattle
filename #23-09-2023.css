@@ -1,0 +1,12 @@
+<p><p><style>*{
+  background:#DA30D4;
+}p{
+  background:transparent;
+  border:40px solid #0C0C49;
+  height:250;
+  width:120;
+  border-radius:100px;
+  margin:-138+92;
+}p+p{
+  margin:38+92;
+}
