@@ -1,1 +1,14 @@
-
+<p a><p b><p c><style>*,[a],[b],[c]{
+background:#9CCCDB;
+}[a]{
+   height:120;
+   width:120;
+   border:40px solid #FEFAE0;
+   margin:50+92;
+}[b],[c]{
+   height:40;
+   width:60;
+   margin:-250+192;
+}[c]{
+   margin:370+132;
+}
