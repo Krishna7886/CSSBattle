@@ -1,0 +1,18 @@
+<p><p><p a><style>*{
+  background:#5E2D8C;
+}p{
+  background:transparent;
+  border:40px solid #F7ED5A;
+  height:120;
+  margin:50+52;
+}p+p{
+  background:#F7ED5A;
+  height:40;
+  width:120;
+  margin:-170+132;
+  border:0;
+}[a]{
+  rotate:90deg;
+  background:#5E2D8C;
+  margin:90+132;
+}
