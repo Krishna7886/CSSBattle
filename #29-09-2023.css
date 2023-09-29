@@ -1,0 +1,16 @@
+<p><p><style>*{
+  background:#E69041;
+}p{
+  background:conic-gradient(#221F20 50%,transparent 0);
+  height:240;
+  width:240;
+  border-radius:50%;
+  rotate:90deg;
+  margin:-18+72;
+}p+p{
+  background:#221F20;
+  height:80;
+  width:80;
+  border:40px solid #E69041;
+  margin:-200+112;
+}
