@@ -1,0 +1,22 @@
+<p><p><h1 a><h1 b><style>*{
+  background:#FEFAE3;
+}p{
+  background:transparent;
+  border-right:60px solid #D4A469;
+  height:110;
+  width:110;
+  border-top:60px solid #D4A469;
+  margin:65+52;
+}p+p{
+  background:#D4A469;
+  height:0;
+  width:110;
+  margin:-125+162;
+}[a],[b]{
+  background:#B17036;
+  height:60;
+  width:60;
+  margin:65+52;
+}[b]{
+  margin:-235+272;
+}
