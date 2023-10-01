@@ -1,0 +1,9 @@
+<p><p><style>*{
+  background:#ED6A9D;
+}p{background:#050044;
+   height:50;
+   margin:125-10;
+  }p+p{
+  rotate:90deg;
+  margin:-100;
+}
