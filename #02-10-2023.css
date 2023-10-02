@@ -1,0 +1,16 @@
+<p a><p b><style>*{
+  background:#B5D1FB;
+}[a]{
+  background:#230259;
+  height:200;
+  width:200;
+  border-radius:50%;
+  margin:75+92;
+}[b]{
+  width:0;
+  height:0;
+  border-left:150px solid transparent;
+  border-right:150px solid transparent;
+  border-bottom:150px solid #8819F6;
+  margin:-325+42;
+}
