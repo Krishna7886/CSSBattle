@@ -1,0 +1,11 @@
+<p><style>*{
+  background:radial-gradient(1q,#DA30D4 7.5ch,50q,#0C0C49,106q,#DA30D4);
+}p{
+  background:#DA30D4;
+  height:150;
+  width:100;
+  position:fixed;
+  top:134;
+  left:80;
+  box-shadow:40px 60px#0C0C49,20px 0#DA30D4;
+}
