@@ -1,0 +1,13 @@
+<p><p><style>*{
+  background:#4F77FF;
+}p,p+p{
+  background:#FFF;
+  height:150;
+  width:50;
+  border-radius:50px;
+  margin:75+47;
+}p+p{
+  width:100;
+  margin:-225+117;
+  box-shadow:120px 0 #FFF;
+}
