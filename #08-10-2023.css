@@ -1,0 +1,16 @@
+<h1><p><h2><style>*,h1,p,h2{
+  background:#ED6A9D;
+}h1{
+  height:160;
+  width:160;
+  border:40px solid #050044;
+  border-radius:50%;
+  margin:30+72
+}p,h2{
+  height:250;
+  width:40;
+  margin:-40+60;
+}h2{
+  rotate:90deg;
+  margin:-275+170;
+}
